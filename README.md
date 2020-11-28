@@ -8,7 +8,7 @@ this will work on gmail accounts with bad passwords and accounts with 2FA disabl
 
 # How to install 
 
-git clone https://github.com/skitz5674/Mailsploit
+git clone https://github.com/Sskitz/Mailsploit
 
 cd Mailsploit 
 
